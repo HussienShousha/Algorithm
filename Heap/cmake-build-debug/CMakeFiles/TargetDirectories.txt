@@ -1,0 +1,3 @@
+C:/Users/user/Desktop/Algorithms/Heap/cmake-build-debug/CMakeFiles/Heap.dir
+C:/Users/user/Desktop/Algorithms/Heap/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/user/Desktop/Algorithms/Heap/cmake-build-debug/CMakeFiles/rebuild_cache.dir
